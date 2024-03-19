@@ -1,0 +1,14 @@
+C:\Users\asp\source\repos\fuctions\fuctions\bin\Debug\net6.0\fuctions.exe
+C:\Users\asp\source\repos\fuctions\fuctions\bin\Debug\net6.0\fuctions.deps.json
+C:\Users\asp\source\repos\fuctions\fuctions\bin\Debug\net6.0\fuctions.runtimeconfig.json
+C:\Users\asp\source\repos\fuctions\fuctions\bin\Debug\net6.0\fuctions.dll
+C:\Users\asp\source\repos\fuctions\fuctions\bin\Debug\net6.0\fuctions.pdb
+C:\Users\asp\source\repos\fuctions\fuctions\obj\Debug\net6.0\fuctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\fuctions\fuctions\obj\Debug\net6.0\fuctions.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\fuctions\fuctions\obj\Debug\net6.0\fuctions.AssemblyInfo.cs
+C:\Users\asp\source\repos\fuctions\fuctions\obj\Debug\net6.0\fuctions.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\fuctions\fuctions\obj\Debug\net6.0\fuctions.dll
+C:\Users\asp\source\repos\fuctions\fuctions\obj\Debug\net6.0\refint\fuctions.dll
+C:\Users\asp\source\repos\fuctions\fuctions\obj\Debug\net6.0\fuctions.pdb
+C:\Users\asp\source\repos\fuctions\fuctions\obj\Debug\net6.0\fuctions.genruntimeconfig.cache
+C:\Users\asp\source\repos\fuctions\fuctions\obj\Debug\net6.0\ref\fuctions.dll
