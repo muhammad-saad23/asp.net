@@ -27,35 +27,35 @@
         //        return $"stdid is {stdid} and name is {name} and gender is {gender}  and class is {@class}";
         //    }
         
-        static void Main(string[] args)
-        {
-            //Console.WriteLine("Hello, World!");
-            ////Program obj=new Program();
-            //Program obj1 = new();
+        //static void Main(string[] args)
+        //{
+        //    //Console.WriteLine("Hello, World!");
+        //    ////Program obj=new Program();
+        //    //Program obj1 = new();
 
-            //obj1.msg();
-            //obj1.name("saad");
-            //string val = Program.msg1("1", "2");
-            //Console.WriteLine(val);
+        //    //obj1.msg();
+        //    //obj1.name("saad");
+        //    //string val = Program.msg1("1", "2");
+        //    //Console.WriteLine(val);
 
-            //student std = new();
-            //std.stdid = 1;
-            //std.name = "saad";
-            //std.gender = "male";
-            //std.@class = "masters";
-            //Console.WriteLine(std.details);
+        //    //student std = new();
+        //    //std.stdid = 1;
+        //    //std.name = "saad";
+        //    //std.gender = "male";
+        //    //std.@class = "masters";
+        //    //Console.WriteLine(std.details);
 
-            //Employee emp= new("saad","saad@gmail.com");
+        //    //Employee emp= new("saad","saad@gmail.com");
 
-            //Car parent = new Car();
-            //double_cabin child=new double_cabin("toyota rocco","black","toyota");
-            ////child.varient();
-            //child.canrun();
+        //    //Car parent = new Car();
+        //    //double_cabin child=new double_cabin("toyota rocco","black","toyota");
+        //    ////child.varient();
+        //    //child.canrun();
 
-            A parent new A();
-            C child=new B();
-            child.method3();
-        }
+        //    //A parent new A();
+        //    //C child=new B();
+        //    //child.method3();
+        //}
 
       
     }
